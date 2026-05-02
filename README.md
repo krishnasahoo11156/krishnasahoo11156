@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Pinned Projects  
-- 🔗 [https://krishna-portfolio-lake-psi.vercel.app/](#) — Personal site built with HTML/CSS  
+- 🔗 [https://krishna-portfolio-lake-psi.vercel.app/] — Personal site built with HTML/CSS  
 - 🔗 [Java Mini Projects](#) — CLI-based programs to practice Java concepts  
 - 🔗 [Data Exploration](#) — Simple Python notebooks analyzing sample datasets  
 
