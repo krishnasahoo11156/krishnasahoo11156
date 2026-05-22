@@ -1,58 +1,97 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HEADER WITH TYPING ANIMATION                               -->
+<!--  MIND BOGGLING ANIMATED HEADER                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="header.svg" alt="Krishna Sahoo — GitHub Profile Header" width="100%"/>
+  <!-- Massive Hyperspace / Cosmic Animation Banner -->
+  <img src="https://media.giphy.com/media/cZb8XQfHps3a8/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 20px;"/>
+  <br/><br/>
+  <img src="header.svg" alt="Krishna Sahoo — GitHub Profile Header" width="80%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Krishna+Sahoo;AI+%26+Data+Science+Enthusiast;I+build+things+with+Java+%26+Python;Turning+coffee+into+code+since+2024" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00b4d8&center=true&vCenter=true&width=800&lines=Welcome+to+the+Matrix;%F0%9F%91%8B+I'm+Krishna+Sahoo;AI+%26+Data+Science+Enthusiast;I+build+mind-bending+projects;Turning+coffee+into+code+since+2024" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=krishnasahoo11156&color=7f5af0&style=for-the-badge&label=profile+views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/krishnasahoo11156?style=for-the-badge&color=00b4d8&logo=github&label=followers)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/krishnasahoo11156?style=for-the-badge&color=7f5af0&logo=github&label=stars)
-
+  <!-- Animated Badges using for-the-badge -->
+  <a href="https://github.com/krishnasahoo11156">
+    <img src="https://komarev.com/ghpvc/?username=krishnasahoo11156&color=7f5af0&style=for-the-badge&label=profile+views" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/krishnasahoo11156?tab=followers">
+    <img src="https://img.shields.io/github/followers/krishnasahoo11156?style=for-the-badge&color=00b4d8&logo=github&label=followers" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/krishnasahoo11156?tab=repositories">
+    <img src="https://img.shields.io/github/stars/krishnasahoo11156?style=for-the-badge&color=7f5af0&logo=github&label=stars" alt="Stars"/>
+  </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
+
+<!-- Animated Neon Rainbow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ABOUT ME : Redesigned without Code Blocks                  -->
+<!--  ABOUT ME : 3D Floating Elements                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/vgOENB1L2h5K8/giphy.gif" width="180" align="right" style="border-radius: 15px;">
+  <!-- Holographic / Tech rotating GIF -->
+  <img src="https://media.giphy.com/media/JkM1F18q2o3w3kOQvY/giphy.gif" width="220" align="right" style="border-radius: 20px;">
   
-  ## 💫 About Me
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" /> About Me
   
   Welcome to my digital universe! I am a **1st Year B.Tech student** majoring in **Artificial Intelligence & Data Science** from India.
   
   I love debugging at 2 AM and calling it fun. Building small projects that solve real problems is my jam! Currently deep-diving into **Java OOP & DSA**. 
   
-  My ultimate goal? **To build AI that actually helps people.** 🚀
+  My ultimate goal? **To build AI that actually helps people.** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
   
   > *"Building things. Breaking things. Learning fast."*
 </div>
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Glowing Fire Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  TECH STACK : skill-icons                                   -->
+<!--  TROPHIES (NEW SECTION)                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Achievements
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=krishnasahoo11156&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=MakeItAstonishing" alt="Trophies" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  TECH STACK : skill-icons + Matrix / Coding GIF             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack & Tools
+
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="220" align="left" style="border-radius: 20px;">
+
+<br/>
 
 **// Core Arsenal**
 
@@ -60,15 +99,19 @@
 
 <br/>
 
-**// Currently Exploring** &nbsp;🔭
+**// Currently Exploring** &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" />
 
 [![Exploring](https://skillicons.dev/icons?i=tensorflow,js,react,linux,figma&theme=dark&perline=5)](https://skillicons.dev)
 
-> 🧪 *These are still being unlocked — progress: 35%*
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="20" height="20" /> *These are still being unlocked — progress: 35%*
+
+<br clear="both">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS                                               -->
@@ -76,7 +119,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Analytics
 
 <table>
 <tr>
@@ -97,7 +140,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  SNAKE CONTRIBUTION GRAPH                                   -->
@@ -105,7 +150,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -118,7 +163,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  PROJECTS : Accordion                                       -->
@@ -126,7 +173,7 @@
 
 <div align="center">
 
-## 💻 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="Star" width="35" height="35" /> Featured Projects
 
 </div>
 
@@ -210,17 +257,19 @@
 <br/>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  LEARNING ROADMAP : Redesigned without Code Blocks          -->
+<!--  LEARNING ROADMAP : Animated Bars                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎯 2025 Learning Roadmap
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="35" height="35" /> 2025 Learning Roadmap
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" align="left" style="border-radius: 15px;">
+<img src="https://media.giphy.com/media/l41lYLvA1mEItwS5O/giphy.gif" width="220" align="left" style="border-radius: 15px;">
 
 <div align="left" style="display: inline-block;">
   
@@ -243,15 +292,17 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" height="4px"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONNECT : Social links                                     -->
+<!--  CONNECT : Social links + Mind Bending Footer               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌌 Let's Connect!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" /> Let's Connect!
 
 <img src="social.svg" alt="Social Links — LinkedIn · LeetCode · Gmail · Instagram · Portfolio" width="100%"/>
 
@@ -265,7 +316,8 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteDdqMjY5ZXA5azY5Z2Fwbm9ya2NqcHVmbXlyOG11OW1sOTUweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" style="border-radius: 10px;" />
+<!-- Epic Animated Footer Banner -->
+<img src="https://media.giphy.com/media/L0IcqjZHI8Q6a8uQ1H/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 20px;" />
 
 <br/><br/>
 
