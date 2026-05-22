@@ -1,78 +1,58 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 1 — ANIMATED SVG HEADER                          -->
+<!--  HEADER WITH TYPING ANIMATION                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="header.svg" alt="Krishna Sahoo — GitHub Profile Header" width="100%"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Krishna+Sahoo;AI+%26+Data+Science+Enthusiast;I+build+things+with+Java+%26+Python;Turning+coffee+into+code+since+2024" alt="Typing SVG" /></a>
+</div>
+
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krishnasahoo11156&color=7f5af0&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=krishnasahoo11156&color=7f5af0&style=for-the-badge&label=profile+views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/krishnasahoo11156?style=flat-square&color=00b4d8&logo=github&label=followers)
+![GitHub followers](https://img.shields.io/github/followers/krishnasahoo11156?style=for-the-badge&color=00b4d8&logo=github&label=followers)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/krishnasahoo11156?style=flat-square&color=7f5af0&logo=github&label=stars)
+![GitHub stars](https://img.shields.io/github/stars/krishnasahoo11156?style=for-the-badge&color=7f5af0&logo=github&label=stars)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 2 — ABOUT ME : Terminal Window                   -->
+<!--  ABOUT ME : Redesigned without Code Blocks                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## `> about --me`
-
+  <img src="https://media.giphy.com/media/vgOENB1L2h5K8/giphy.gif" width="180" align="right" style="border-radius: 15px;">
+  
+  ## 💫 About Me
+  
+  Welcome to my digital universe! I am a **1st Year B.Tech student** majoring in **Artificial Intelligence & Data Science** from India.
+  
+  I love debugging at 2 AM and calling it fun. Building small projects that solve real problems is my jam! Currently deep-diving into **Java OOP & DSA**. 
+  
+  My ultimate goal? **To build AI that actually helps people.** 🚀
+  
+  > *"Building things. Breaking things. Learning fast."*
 </div>
 
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│  krishna@dev  ~  github-profile                        ◉ − ✕  │
-└──────────────────────────────────────────────────────────────┘
-
-  $ whoami
-  -> krishnasahoo11156
-
-  $ cat about.txt
-  +----------------------------------------------------------+
-  |  B.Tech - Artificial Intelligence & Data Science         |
-  |  1st Year  |  India                                      |
-  |                                                          |
-  |  I love debugging at 2 AM and calling it fun.            |
-  |  Building small projects that solve real problems.       |
-  |  Currently deep-diving into Java OOP & DSA.              |
-  |  Future goal: build AI that actually helps people.       |
-  +----------------------------------------------------------+
-
-  $ echo $SKILLS
-  -> [ Java, HTML5, CSS3, Python, Git, GitHub ]
-
-  $ echo $LEARNING
-  -> [ Java_OOP, DSA, Responsive_WebDev, ML_Basics ]
-
-  $ echo $STATUS
-  -> "Building things. Breaking things. Learning fast."
-
-  $ uptime
-  -> 1st year of a 4-year mission  [======------]  25%
-
-  $ _  <- cursor blinking...
-```
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 3 — TECH STACK : skill-icons                     -->
+<!--  TECH STACK : skill-icons                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> ls ./tech-stack`
+## 🛠️ Tech Stack & Tools
 
 **// Core Arsenal**
 
@@ -84,31 +64,27 @@
 
 [![Exploring](https://skillicons.dev/icons?i=tensorflow,js,react,linux,figma&theme=dark&perline=5)](https://skillicons.dev)
 
-> 🧪 *These are still being unlocked — progress: `[====--------]` ~35%*
+> 🧪 *These are still being unlocked — progress: 35%*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 4 — GITHUB STATS                                  -->
+<!--  GITHUB STATS                                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> git log --stat`
+## 📊 GitHub Analytics
 
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishnasahoo11156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="100%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasahoo11156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td align="center" width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=krishnasahoo11156&theme=tokyonight-duo&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-
+  <img src="https://streak-stats.demolab.com/?user=krishnasahoo11156&theme=tokyonight-duo&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
 </table>
@@ -124,16 +100,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 5 — SNAKE CONTRIBUTION GRAPH                     -->
-<!--  Setup: Settings → Actions → Workflow permissions         -->
-<!--         → Read and write → Save                           -->
-<!--  Then:  Actions tab → "Generate Snake Animation"          -->
-<!--         → Run workflow (manually, first time)             -->
+<!--  SNAKE CONTRIBUTION GRAPH                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> ./snake.sh --eat-contributions`
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -149,12 +121,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 6 — PROJECTS : Accordion                         -->
+<!--  PROJECTS : Accordion                                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> ls ./projects --details`
+## 💻 Featured Projects
 
 </div>
 
@@ -190,7 +162,7 @@
 - OOP concepts with real-world examples
 - Upcoming: Arrays, LinkedLists, Stacks, Queues, Trees
 
-**📈 Progress:** `[========------]` ~55% through fundamentals
+**📈 Progress:** 55% through fundamentals
 
 **🔗 Links:**
 &nbsp; [![Source](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krishnasahoo11156/DSA)
@@ -241,59 +213,45 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 7 — LEARNING ROADMAP : Progress bars             -->
+<!--  LEARNING ROADMAP : Redesigned without Code Blocks          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> progress --show-all`
+## 🎯 2025 Learning Roadmap
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" align="left" style="border-radius: 15px;">
+
+<div align="left" style="display: inline-block;">
+  
+  ### ☕ Java & DSA
+  <img src="https://geps.dev/progress/60?color=00b4d8" alt="Java Basics" height="20"/> **Java Basics** (Done) <br>
+  <img src="https://geps.dev/progress/40?color=7f5af0" alt="Java OOP" height="20"/> **Java OOP** (In progress) <br>
+  <img src="https://geps.dev/progress/30?color=7f5af0" alt="DSA Arrays" height="20"/> **DSA (Arrays)** (In progress)
+
+  ### 🌐 Web Development
+  <img src="https://geps.dev/progress/70?color=00b4d8" alt="HTML5" height="20"/> **HTML5** (Done) <br>
+  <img src="https://geps.dev/progress/60?color=00b4d8" alt="CSS3" height="20"/> **CSS3 / Layouts** (Done) <br>
+  <img src="https://geps.dev/progress/40?color=7f5af0" alt="Responsive Web" height="20"/> **Responsive Web** (In progress)
+
+  ### 🧠 AI & Machine Learning
+  <img src="https://geps.dev/progress/40?color=7f5af0" alt="Python" height="20"/> **Python Basics** (In progress) <br>
+  <img src="https://geps.dev/progress/20?color=7f5af0" alt="NumPy/Pandas" height="20"/> **NumPy & Pandas** (Starting)
 
 </div>
+</div>
 
-```
-  +--------------------------------------------------------------------+
-  |                   2025 LEARNING ROADMAP                            |
-  +====================+=======================+========+=============+
-  | SKILL              | PROGRESS              | DONE   | STATUS      |
-  +--------------------+-----------------------+--------+-------------+
-  |                                                                    |
-  |   JAVA & DSA                                                       |
-  |   Java Basics      | [============------]  |  60%   | Done        |
-  |   Java OOP         | [========----------]  |  40%   | In progress |
-  |   DSA (Arrays)     | [======------------]  |  30%   | In progress |
-  |   DSA (Trees/DP)   | [==----------------]  |  10%   | Upcoming    |
-  |                                                                    |
-  |   WEB DEVELOPMENT                                                  |
-  |   HTML5            | [==============----]  |  70%   | Done        |
-  |   CSS3 / Layouts   | [============------]  |  60%   | Done        |
-  |   Responsive Web   | [========----------]  |  40%   | In progress |
-  |   JavaScript       | [====----------------]|  20%   | Up next     |
-  |   React.js         | [=-----------------]  |   5%   | Upcoming    |
-  |                                                                    |
-  |   AI & MACHINE LEARNING                                            |
-  |   Python Basics    | [========----------]  |  40%   | In progress |
-  |   NumPy / Pandas   | [====------------]    |  20%   | Starting    |
-  |   ML Models        | [==----------------]  |  10%   | Upcoming    |
-  |   Deep Learning    | [------------------]  |   0%   | Far future  |
-  |                                                                    |
-  |   TOOLS & DEVOPS                                                   |
-  |   Git / GitHub     | [============------]  |  60%   | Done        |
-  |   CI/CD Basics     | [====------------]    |  20%   | Upcoming    |
-  |   Open Source      | [==----------------]  |  10%   | This year   |
-  |                                                                    |
-  |   Done=[==]   In Progress=[==]   Upcoming=[--]                    |
-  +--------------------------------------------------------------------+
-```
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 8 — CONNECT : Social links                       -->
+<!--  CONNECT : Social links                                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> connect --all`
+## 🌌 Let's Connect!
 
 <img src="social.svg" alt="Social Links — LinkedIn · LeetCode · Gmail · Instagram · Portfolio" width="100%"/>
 
@@ -305,19 +263,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@krishnasahoo11156-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krishnasahoo11156)
 [![Portfolio](https://img.shields.io/badge/Portfolio-krishna.dev-7f5af0?style=for-the-badge&logo=vercel&logoColor=white)](https://krishna-portfolio-lake-psi.vercel.app/)
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteDdqMjY5ZXA5azY5Z2Fwbm9ya2NqcHVmbXlyOG11OW1sOTUweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" style="border-radius: 10px;" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 9 — FOOTER                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/><br/>
 
-<div align="center">
-
-⚡ Open to collaborations &nbsp;·&nbsp; 🌱 Always learning &nbsp;·&nbsp; ☕ Powered by coffee &nbsp;·&nbsp; 🤖 Future AI Engineer &nbsp;·&nbsp; 🚀 Building the future
-
-<br/>
+⚡ Open to collaborations &nbsp;·&nbsp; 🌱 Always learning &nbsp;·&nbsp; ☕ Powered by coffee &nbsp;·&nbsp; 🤖 Future AI Engineer
 
 *"The expert in anything was once a beginner who refused to give up."*
 
