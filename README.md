@@ -69,10 +69,6 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/krishnasahoo11156/krishnasahoo11156/output/snake.svg?palette=github-dark)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sahoo-b3440537a)
