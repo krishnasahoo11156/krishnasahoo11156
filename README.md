@@ -1,6 +1,8 @@
-<!-- Simplified Animated Header -->
+<!-- Typing Hero Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7f5af0&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Krishna+Sahoo;AI+%26+Data+Science+Student;I+build+things+that+matter" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Krishna+Sahoo;AI+%26+DS+Student;Java+%26+DSA+Learner;Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -64,6 +66,10 @@
 **☕ [Java DSA Repository](https://github.com/krishnasahoo11156/DSA)** – Structured DSA practice with Java  
 **🎨 Responsive Web Design Collection** – Flexbox, Grid, CSS animations  
 **🤖 ML Explorer (WIP)** – NumPy, Pandas, Jupyter notebooks  
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/krishnasahoo11156/krishnasahoo11156/output/snake.svg?palette=github-dark)
 
 ---
 
