@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Krishna%20Sahoo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descAlignY=55&descSize=18"/>
+  <img src="assets/banner.png" alt="Krishna Sahoo - AI & Data Science Engineer" width="100%"/>
 </p>
 
 <p align="center">
