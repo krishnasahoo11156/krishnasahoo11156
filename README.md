@@ -143,27 +143,6 @@ I'm a **B.Tech AI & Data Science** student at VESIT, Mumbai, but my work spans t
   </a>
 </p>
 
-### 🔥 CrisisSync — AI-Powered Crisis Response Platform
-**Architecture:** Flutter (Mobile) → Firebase (Backend/Auth) → Gemini AI (Classification) → Google Maps API (Tracking) → Docker/Cloud Run (Deployment)
-- Real-time incident classification with severity scoring using Gemini AI
-- Role-based access control: Guest, Staff, Admin portals
-- Live ADI dashboard with Google Maps integration
-- **Status:** Production-ready | Hackathon winner
-
-### 📚 StudySync — Academic Productivity OS
-**Architecture:** React.js + Vite + Tailwind → Firebase → Web Audio API
-- Intelligent calendar with conflict detection algorithms
-- Pomodoro timer with procedurally generated ambient sound
-- Cloud file library with hierarchical folder system
-- **Status:** Active development | Open for contributions
-
-### ⚡ DevAgent — Autonomous Developer Onboarding
-**Architecture:** Next.js + TypeScript → Gemini AI → NextAuth → Chart.js
-- AI assistant for developer environment setup guidance
-- Local environment verification agent (checks dev tools, dependencies)
-- HR dashboard with real-time onboarding analytics
-- **Status:** Hackathon prototype | Scaling to production
-
 ## 🐍 Contribution Evolution
 
 <p align="center">
