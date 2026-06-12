@@ -169,7 +169,7 @@ I'm a **B.Tech AI & Data Science** student at VESIT, Mumbai, but my work spans t
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <i>Built with precision. Maintained with passion. Powered by curiosity.</i><br>
   <b>Krishna Sahoo</b> © 2026
-</p>
+</p> -->
