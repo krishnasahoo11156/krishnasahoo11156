@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Krishna Sahoo - AI & Data Science Engineer" width="100%"/>
+  <img src="assets/logo.png" alt="Krishna Sahoo - Tech Logo" width="160" />
 </p>
+
+<h1 align="center">Krishna Sahoo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Designing+AI+Systems+for+Real-World+Impact;Full-Stack+Engineer+%7C+Java+%7C+Python+%7C+React;Building+CrisisSync+%E2%80%94+AI-Powered+Crisis+Response;Open+Source+Contributor+%7C+Always+Learning;Clean+Code+%7C+Strong+Architecture+%7C+Scalable+Solutions" alt="Typing Animation" />
