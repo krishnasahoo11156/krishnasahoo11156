@@ -1,26 +1,30 @@
 <div align="center">
 
 <!-- HEADER - venom type creates organic liquid blob edge -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:302b63,60:24243e,100:FF6B6B&height=280&section=header&text=Krishna%20Sahoo&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:0A192F,100:00D4FF&height=280&section=header&text=Krishna%20Sahoo&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <!-- Animated IDE Terminal Block -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=┌────────────────────────────────────────────────────────┐&v=2" alt="border-top"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&width=700&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90&v=2" alt="border-top"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=99999&color=6A9955&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20//%20Krishna's%20Engineering%20Identity%20-%20AI%20%26%20Data%20Science&v=2" alt="comment"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=99999&color=6A9955&width=700&height=20&lines=|%20%20%20//%20Krishna's%20Engineering%20Identity%20-%20AI%20and%20Data%20Science&v=2" alt="comment"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=2000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20public%20class%20KrishnaSahoo%20{;%20%20%20%20%20%20%20//%20Systems%20that%20Reason,%20Adapt,%20and%20Scale&v=2" alt="class-def"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&width=700&height=20&lines=|%20%20%20public%20class%20KrishnaSahoo%20{&v=2" alt="class-def"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=3000&color=4EC9B0&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20role%20=%20%22AI%20and%20Data%20Science%20Engineer%22;;%20%20%20%20%20%20%20String[]%20techStack%20=%20{%20%22Java%22,%20%22Python%22,%20%22React%22%20};&v=2" alt="vars"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=D4D4D4&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20role%20=%20%22AI%20and%20Data%20Science%20Engineer%22;&v=2" alt="role"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=4000&color=CE9178&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20activeProject%20=%20%22CrisisSync%22;;%20%20%20%20%20%20%20boolean%20isCoding%20=%20true;&v=2" alt="vars2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=D4D4D4&width=700&height=20&lines=|%20%20%20%20%20%20%20String[]%20techStack%20=%20{%20%22Java%22,%20%22Python%22,%20%22React%22%20};&v=2" alt="techStack"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=5000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20public%20void%20execute()%20{;%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Building%20systems%20that%20think...%22);&v=2" alt="method"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=D4D4D4&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20activeProject%20=%20%22CrisisSync%22;&v=2" alt="activeProject"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20};&v=2" alt="method-end"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&width=700&height=20&lines=|%20%20%20%20%20%20%20public%20void%20execute()%20{&v=2" alt="method"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20}&v=2" alt="class-end"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=3000&color=D4D4D4&width=700&height=20&lines=|%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Building%20systems%20that%20think...%22);&v=2" alt="print"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=└────────────────────────────────────────────────────────┘&v=2" alt="border-bottom"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&width=700&height=20&lines=|%20%20%20%20%20%20%20};&v=2" alt="method-end"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&width=700&height=20&lines=|%20%20%20}&v=2" alt="class-end"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&width=700&height=20&lines=%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98&v=2" alt="border-bottom"/>
 
 </div>
 
