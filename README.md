@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER - venom type creates organic liquid blob edge -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:0A192F,100:00D4FF&height=280&section=header&text=Krishna%20Sahoo&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
+<a href="https://krishna-portfolio-lake-psi.vercel.app/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFAB,50:0F3443,100:34E89E&height=340&section=header&text=Krishna%20Sahoo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=20&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
+</a>
 
 <!-- Animated IDE Terminal Block -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&width=700&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90&v=2" alt="border-top"/>
@@ -119,11 +121,7 @@ I'm a **B.Tech AI & Data Science** student at VESIT, Mumbai, but my work spans t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnasahoo11156&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b" alt="Contribution Graph" width="95%"/>
 </p>
 
-## 🏆 System Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnasahoo11156&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</p>
+<!-- Trophies section temporarily removed due to Vercel hosting service limits/outage -->
 
 ## 🚀 Featured Systems
 
