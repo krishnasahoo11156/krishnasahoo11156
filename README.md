@@ -68,8 +68,6 @@ I'm a **B.Tech AI & Data Science** student at VESIT, Mumbai, but my work spans t
 - **Full-Stack Ownership:** Frontend (React/Vite/Tailwind), Backend (Node.js/Express/Firebase), DevOps (Docker/Cloud Run), and ML (Gemini API, custom models) — I own the entire lifecycle.
 - **Production-First Mindset:** Every repo has CI/CD considerations, environment configs, and deployment documentation. Side projects are treated like production systems.
 
-**Currently architecting:** CrisisSync — an AI-powered crisis response platform with role-based portals, real-time ADI dashboards, and Google Maps integration. Built with Flutter, Firebase, and Gemini AI.
-
 ## 🏗️ Technical Architecture
 
 ### Core Systems & Languages
