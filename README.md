@@ -1,12 +1,30 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Krishna Sahoo - Tech Logo" width="160" />
-</p>
+<div align="center">
 
-<h1 align="center">Krishna Sahoo</h1>
+<!-- HEADER - venom type creates organic liquid blob edge -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:302b63,60:24243e,100:FF6B6B&height=280&section=header&text=Krishna%20Sahoo&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=22&descAlignY=62&descColor=fff0f0&stroke=ffffff&strokeWidth=2" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Designing+AI+Systems+for+Real-World+Impact;Full-Stack+Engineer+%7C+Java+%7C+Python+%7C+React;Building+CrisisSync+%E2%80%94+AI-Powered+Crisis+Response;Open+Source+Contributor+%7C+Always+Learning;Clean+Code+%7C+Strong+Architecture+%7C+Scalable+Solutions" alt="Typing Animation" />
-</p>
+<!-- Animated IDE Terminal Block -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=┌────────────────────────────────────────────────────────┐&v=2" alt="border-top"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=99999&color=6A9955&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20//%20Krishna's%20Engineering%20Identity%20-%20AI%20%26%20Data%20Science&v=2" alt="comment"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=2000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20public%20class%20KrishnaSahoo%20{;%20%20%20%20%20%20%20//%20Systems%20that%20Reason,%20Adapt,%20and%20Scale&v=2" alt="class-def"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=3000&color=4EC9B0&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20role%20=%20%22AI%20and%20Data%20Science%20Engineer%22;;%20%20%20%20%20%20%20String[]%20techStack%20=%20{%20%22Java%22,%20%22Python%22,%20%22React%22%20};&v=2" alt="vars"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=4000&color=CE9178&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20String%20activeProject%20=%20%22CrisisSync%22;;%20%20%20%20%20%20%20boolean%20isCoding%20=%20true;&v=2" alt="vars2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=5000&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20public%20void%20execute()%20{;%20%20%20%20%20%20%20%20%20%20%20System.out.println(%22Building%20systems%20that%20think...%22);&v=2" alt="method"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20%20%20%20%20};&v=2" alt="method-end"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=99999&color=569CD6&center=true&vCenter=true&width=700&height=20&lines=|%20%20%20}&v=2" alt="class-end"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=99999&color=555555&center=true&vCenter=true&width=700&height=20&lines=└────────────────────────────────────────────────────────┘&v=2" alt="border-bottom"/>
+
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://krishna-portfolio-lake-psi.vercel.app/" target="_blank">
