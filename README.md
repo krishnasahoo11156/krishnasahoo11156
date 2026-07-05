@@ -1,3 +1,13 @@
+<style>
+  body, .markdown-body {
+    background-image: url('background_faded.png') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+  }
+</style>
+
 <p align="center">
   <img src="title.png" alt="Title" width="100%" />
 </p>
