@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" />
+  <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" style="display: block; margin: 0 auto; padding: 0;" /><img src="tagline.png" alt="Tagline" width="70%" style="display: block; margin: 0 auto; padding: 0;" />
 </p>
 
 ---
