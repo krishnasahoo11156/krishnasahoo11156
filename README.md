@@ -3,29 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" style="display: block; margin: 0 auto; padding: 0;" /><img src="tagline.png" alt="Tagline" width="70%" style="display: block; margin: 0 auto; padding: 0;" />
+  <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" /><br><img src="tagline.png" alt="Tagline" width="100%" />
 </p>
-
----
-
-<!-- Add your project description, features, and documentation below -->
-
-## About
-
-<!-- Describe your project here -->
-
-## Getting Started
-
-<!-- Add setup instructions here -->
-
-## Features
-
-<!-- List key features here -->
-
-## Contributing
-
-<!-- Add contribution guidelines here -->
-
-## License
-
-<!-- Add license information here -->
