@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" />
+  <a href="https://krishna-portfolio-lake-psi.vercel.app/">
+    <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sketch Reveal" width="70%" />
+  </a>
 </p>
 
 <p align="center">
