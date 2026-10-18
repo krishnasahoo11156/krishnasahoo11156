@@ -9,11 +9,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-## ◆ Proof of Work
+### ◆ Proof of Work
 
 <table width="100%">
   <tr>
@@ -27,7 +25,9 @@
           <img src="https://img.shields.io/badge/Chrome_Web_Store-Live_Tool-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/>
         </a>
         <br/>
-        <img src="https://img.shields.io/badge/Status-Published_Production_Tool-34A853?style=flat-square" alt="Status Published"/>
+        <a href="https://chromewebstore.google.com/detail/code2git-auto-sync-dsa-to/kocmaicmhhnhihglnomcfgjekepnigbk">
+          <img src="https://img.shields.io/badge/●_Production-Published_Tool-00C853?style=flat-square" alt="Status Published"/>
+        </a>
       </p>
       <p>
         A published <b>Manifest V3 browser extension</b> that automatically captures, parses, and synchronizes accepted DSA problem solutions across <b>LeetCode, Codeforces, and GeeksforGeeks</b> directly to user-configured GitHub repositories in real time.
@@ -48,7 +48,9 @@
           <img src="https://img.shields.io/badge/Live_Deployment-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="CipherSentinel Live"/>
         </a>
         <br/>
-        <img src="https://img.shields.io/badge/Focus-Threat_Intelligence_%26_Security-E02424?style=flat-square" alt="Focus Security"/>
+        <a href="https://ciphersentinel1.vercel.app/">
+          <img src="https://img.shields.io/badge/●_Active_System-Threat_Intelligence-38BDF8?style=flat-square" alt="Focus Security"/>
+        </a>
       </p>
       <p>
         An enterprise threat intelligence platform engineered for <b>insider threat detection from TLS metadata</b>. Identifies data exfiltration risks and anomalous encrypted tunnels without decrypting payload traffic, preserving complete end-to-end user privacy.
@@ -65,11 +67,9 @@
   </tr>
 </table>
 
-<br/>
-
 ---
 
-## ◆ Recognition
+### ◆ Recognition
 
 | Competition / Achievement | Result | Scale |
 | :--- | :--- | :--- |
@@ -79,11 +79,9 @@
 | 🏆 **Hack-On-Track Hackathon** | **Top 10 Finalist** | 1,000+ participants |
 | 🏆 **Faraway International Hackathon** | **Semi-Finalist** | 12,000+ participants & 2,100+ teams |
 
-<br/>
-
 ---
 
-## ◆ Problem Solving & Competitive Programming
+### ◆ Problem Solving & Competitive Programming
 
 <table width="100%">
   <tr>
@@ -111,11 +109,9 @@
   </tr>
 </table>
 
-<br/>
-
 ---
 
-## ◆ Connect with Me
+### ◆ Connect with Me
 
 <p align="center">
   <a href="https://krishna11156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
