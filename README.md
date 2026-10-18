@@ -7,23 +7,7 @@
 
 `Software Engineering` · `Backend Systems` · `Applied AI/ML` · `Distributed Architecture`
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krishna11156.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sahoo-b3440537a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KrishnaSahoo11156/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Krishna11156)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasahoo11156@gmail.com)
-
 </div>
-
-<br/>
-
----
-
-## ◆ Introduction
-
-> **2nd-year B.Tech undergraduate** majoring in **Artificial Intelligence & Data Science** at **Vivekananda Education Society's Institute of Technology (VESIT)**. Passionate about building robust backend architectures, threat intelligence systems, and high-impact developer tooling. Proven competitive builder with multiple hackathon wins and consistent algorithmic practice across competitive programming platforms.
 
 <br/>
 
@@ -99,19 +83,6 @@
 
 ---
 
-## ◆ Engineering & Technical Stack
-
-```
-├── Backend & Architecture     :: Java · Spring Boot · Spring Security · Hibernate/JPA · RESTful APIs · Node.js
-├── Frontend & Tooling         :: JavaScript (ES6+) · TypeScript · React.js · Manifest V3 Extension API · Tailwind CSS
-├── Databases & Cloud          :: MySQL · PostgreSQL · Firebase Realtime DB · MongoDB · Docker · Git & GitHub Actions
-└── Computer Science Core      :: Data Structures & Algorithms · System Design · Network Protocols · OOP Design Patterns
-```
-
-<br/>
-
----
-
 ## ◆ Problem Solving & Competitive Programming
 
 <table width="100%">
@@ -144,29 +115,14 @@
 
 ---
 
-## ◆ Connect & Collaborate
+## ◆ Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-sahoo-b3440537a/">
-    <img src="icons/linkedinicon_animated.svg" width="60" hspace="8" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/KrishnaSahoo11156/">
-    <img src="icons/leetcodeicon_animated.svg" width="60" hspace="8" alt="LeetCode" title="LeetCode" />
-  </a>
-  <a href="https://x.com/Krishna11156">
-    <img src="icons/xicon_animated.svg" width="60" hspace="8" alt="X" title="X (Twitter)" />
-  </a>
-  <a href="https://www.instagram.com/krishnasahoo11156/?hl=en">
-    <img src="icons/instaicon_animated.svg" width="60" hspace="8" alt="Instagram" title="Instagram" />
-  </a>
-  <a href="https://discord.com">
-    <img src="icons/discordicon_animated.svg" width="60" hspace="8" alt="Discord" title="Discord" />
-  </a>
-  <a href="mailto:krishnasahoo11156@gmail.com">
-    <img src="icons/mailicon_animated.svg" width="60" hspace="8" alt="Mail" title="Email Me" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Designed with precision · Engineered for performance · Open to Software Engineering Internships</sub>
+  <a href="https://krishna11156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krishna-sahoo-b3440537a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/KrishnaSahoo11156/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/Krishna11156"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://x.com/Krishna11156"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/krishnasahoo11156/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:krishnasahoo11156@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
