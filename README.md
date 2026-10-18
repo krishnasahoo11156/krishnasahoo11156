@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="header_banner.png" alt="Krishna Sahoo Banner" width="100%" /><br/>
-  <a href="https://krishna11156.vercel.app/">
-    <img src="krishna_sketch_reveal (1).gif" alt="Krishna Sahoo" width="65%" />
-  </a>
-</p>
-
 <div align="center">
 
-# BUILDING. ARCHITECTING. SCALING.
+# KRISHNA SAHOO
 
-**Java Full Stack Developer · Backend Engineering · Distributed Systems · Applied AI**
+**2nd Year B.Tech Student — Artificial Intelligence & Data Science**  
+**Vivekananda Education Society's Institute of Technology (VESIT)**
+
+`Software Engineering` · `Backend Systems` · `Applied AI/ML` · `Distributed Architecture`
 
 <br/>
 
@@ -20,6 +16,14 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasahoo11156@gmail.com)
 
 </div>
+
+<br/>
+
+---
+
+## ◆ Introduction
+
+> **2nd-year B.Tech undergraduate** majoring in **Artificial Intelligence & Data Science** at **Vivekananda Education Society's Institute of Technology (VESIT)**. Passionate about building robust backend architectures, threat intelligence systems, and high-impact developer tooling. Proven competitive builder with multiple hackathon wins and consistent algorithmic practice across competitive programming platforms.
 
 <br/>
 
