@@ -2,7 +2,7 @@
 
 # KRISHNA SAHOO
 
-**2nd Year B.Tech Student — Artificial Intelligence & Data Science**  
+**2nd Year B.Tech Student, Artificial Intelligence & Data Science**  
 **Vivekananda Education Society's Institute of Technology (VESIT)**
 
 `Software Engineering` · `Backend Systems` · `Applied AI/ML` · `Distributed Architecture`
